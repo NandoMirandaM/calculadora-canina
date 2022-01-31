@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="how_old_are_you">¿Cuantos años tienes?</string>
+    <string name="you_old">Tu edad</string>
+    <string name="age_dog_button">Calcular</string>
+    <string name="you_age">Ingresa tu Edad</string>
+    <string name="text_result">Tu edad canina es de %d años</string>
+</resources>
